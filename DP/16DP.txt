@@ -1,0 +1,21 @@
+creational:-6
+	-Factory Method
+	-Abstract Factory
+	-Builder
+	-Prototype
+
+structural:-8
+	-Adapter
+	-Composite
+	-Proxy
+	-Flyweight
+	-Bridge
+	-Facade
+	-Decorator
+
+behavioral:-12
+	-Observer
+	-Command
+	-Visitor
+	-Interpreter
+	-Memento
